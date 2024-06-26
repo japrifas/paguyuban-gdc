@@ -1,0 +1,10 @@
+@import '/vendor/filament/filament/resources/css/theme.css';
+
+@config 'tailwind.config.js';
+
+
+
+.py-4 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
